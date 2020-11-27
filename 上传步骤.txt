@@ -8,3 +8,9 @@ https://blog.csdn.net/liuweixiao520/article/details/78971221
 
 git 免输用户名和密码上传代码到GitHub
 https://blog.csdn.net/inthuixiang/article/details/79734245
+
+
+
+可能会遇到的问题：
+git 报错：Permanently added the RSA host key for IP address '13.229.188.59' to the list of known hosts.
+https://blog.csdn.net/Magic_Ninja/article/details/81437354
