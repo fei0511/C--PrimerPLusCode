@@ -4,3 +4,7 @@ git push origin main
 
 参考：
 https://blog.csdn.net/liuweixiao520/article/details/78971221
+
+
+git 免输用户名和密码上传代码到GitHub
+https://blog.csdn.net/inthuixiang/article/details/79734245
