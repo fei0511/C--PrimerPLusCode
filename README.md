@@ -209,6 +209,28 @@
 
 
 
+### 第15章  友元、异常和其他（P602）
+
+- 友元类
+
+- 友元类方法
+
+- 嵌套类
+
+- 引发异常、try块和catch块
+
+- 异常类
+
+- 运行阶段类型时别（RTTI）
+
+- dynamic_cast和typeid
+
+- static_cast、const_cast和reiterpret
+
+  
+
+
+
 
 
 **注意事项：**
