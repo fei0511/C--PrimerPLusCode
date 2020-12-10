@@ -212,22 +212,26 @@
 ### 第15章  友元、异常和其他（P602）
 
 - 友元类
-
 - 友元类方法
-
 - 嵌套类
-
 - 引发异常、try块和catch块
-
 - 异常类
-
 - 运行阶段类型时别（RTTI）
-
 - dynamic_cast和typeid
-
 - static_cast、const_cast和reiterpret
 
-  
+
+
+### 第16章  string类和标准模板类（P655）
+
+- 标准C++string类
+- 模板auto_ptr、unique_ptr和shared_ptr
+- 标准准模板库（STL）
+- 容器类
+- 迭代器
+- 运函数对象
+- STL算法
+- 模板initializer_list
 
 **注意事项：**
 
